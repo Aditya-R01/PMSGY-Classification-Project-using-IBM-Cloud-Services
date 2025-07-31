@@ -5,7 +5,7 @@ This repository contains the code for an intelligent web application that classi
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Launch%20Webapp-red?style=for-the-badge&logo=streamlit)](https://pmsgyclassification.streamlit.app/)
 
 ![App Screenshot](ui.png)
-*(**Note**: You should replace this with a screenshot of your actual web app for a better presentation.)*
+
 
 ---
 

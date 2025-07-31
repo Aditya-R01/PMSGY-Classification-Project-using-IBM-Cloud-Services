@@ -260,7 +260,7 @@ st.markdown("""
         <a href="https://aditya-r01.github.io/Portfolio-website/" target="_blank" style="text-decoration: none; color: white; margin: 0 10px;">
             <img src="https://e7.pngegg.com/pngimages/875/395/png-clipart-internet-internet-security-earth-blue-globe-thumbnail.png" width="20" height="20" style="vertical-align: middle;"> My Portfolio
         </a> |
-        <a href="https://github.com/Aditya-R01/Employee-Salary-Predictor" target="_blank" style="text-decoration: none; color: white; margin: 0 10px;">
+        <a href="https://github.com/Aditya-R01/PMSGY-Classification-Project-using-IBM-Cloud-Services" target="_blank" style="text-decoration: none; color: white; margin: 0 10px;">
             <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" width="20" height="20" style="vertical-align: middle;"> View in GitHub
         </a>
     </p>

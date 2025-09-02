@@ -43,7 +43,7 @@ state_district_map = {
 
 # ----------------- IBM Cloud WML Config ------------------
 API_KEY = "0QfzNqqBLe5xJFxi6admmnnkPDL9TS9Z5H3KBi8jroGl" # ⚠️ IMPORTANT: Replace with your actual API key
-DEPLOYMENT_URL = "https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/pmsgy/predictions?version=2021-05-01"
+DEPLOYMENT_URL = "https://eu-gb.ml.cloud.ibm.com/ml/v4/deployments/920b352f-52b1-45d4-ba2b-9bc261dc361f/predictions?version=2021-05-01"
 
 # ----------------- Streamlit UI ------------------
 st.set_page_config(page_title="PMGSY Project Classifier", page_icon="🛣️", layout="wide")
@@ -266,4 +266,5 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
+
 
